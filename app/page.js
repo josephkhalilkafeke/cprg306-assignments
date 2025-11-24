@@ -40,9 +40,14 @@ export default function Home() {
            Go to Week 7 Page
          </Link>
       </p>
+      <p>
+        <Link href="/week-8" className="text-blue-600 hover:underline">
+           Go to Week 8 Page
+         </Link>
+      </p>
 
       <p>
-        Additional Information: This page links to week-2, week-3, week-4, week-5,week-6 and week-7 assignments.
+        Additional Information: This page links to week-2, week-3, week-4, week-5,week-6,week-7,week-8,week-9 and week-10 assignments.
       </p>
     </main>
   );
