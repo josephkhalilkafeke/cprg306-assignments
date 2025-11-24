@@ -40,9 +40,16 @@ export default function Home() {
            Go to Week 7 Page
          </Link>
       </p>
+
       <p>
         <Link href="/week-8" className="text-blue-600 hover:underline">
            Go to Week 8 Page
+         </Link>
+      </p>
+
+      <p>
+        <Link href="/week-9" className="text-blue-600 hover:underline">
+           Go to Week 9 Page
          </Link>
       </p>
 
