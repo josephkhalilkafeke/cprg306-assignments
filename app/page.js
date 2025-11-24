@@ -22,9 +22,16 @@ export default function Home() {
           Go to Week 4 Page
         </Link>
       </p>
+      
+      <p>
+        <Link href="/week-5" className="text-blue-600 hover:underline">
+          Go to Week 5 Page
+        </Link>
+      </p>
 
-      <p>Additional Information: This page links to week-2, week-3, and week-4 assignments.</p>
+      <p>
+        Additional Information: This page links to week-2, week-3, week-4, and week-5 assignments.
+      </p>
     </main>
   );
 }
-
